@@ -1,0 +1,66 @@
+CONTRAT DE PRESTATION DE SERVICES
+
+Entre :
+
+La société DIGITAL SOLUTIONS SARL, immatriculée au RCS de Lyon sous le numéro 987 654 321, dont le siège social est situé au 8 Place Bellecour, 69002 Lyon, représentée par Madame Sophie Lefebvre, Gérante, ci-après dénommée « le Client »,
+
+Et :
+
+Monsieur Paul Bernard, auto-entrepreneur, immatriculé au RCS de Marseille sous le numéro SIRET 123 456 789 00012, demeurant au 22 rue Paradis, 13001 Marseille, ci-après dénommé « le Prestataire »,
+
+Il est convenu ce qui suit :
+
+OBJET DE LA MISSION
+
+Le Client confie au Prestataire une mission de développement d'une application de gestion de documents légaux avec intelligence artificielle.
+
+Le Prestataire s'engage à :
+- Concevoir l'architecture de l'application
+- Développer les fonctionnalités de détection de PII
+- Implémenter un système de question-réponse basé sur RAG
+- Déployer l'application sur un environnement cloud
+
+DURÉE DE LA MISSION
+
+La mission débutera le 1er février 2024 et se terminera le 30 juin 2024.
+
+La durée pourra être prolongée d'un commun accord par avenant.
+
+MODALITÉS D'EXÉCUTION
+
+Le Prestataire exercera sa mission en toute indépendance.
+
+Le travail pourra être effectué à distance ou dans les locaux du Client selon les besoins.
+
+Le Prestataire devra fournir un rapport d'avancement mensuel.
+
+RÉMUNÉRATION
+
+La rémunération est fixée à 600 euros HT par jour travaillé.
+
+Le volume estimé est de 80 jours sur la durée de la mission, soit un montant total de 48 000 euros HT.
+
+La facturation sera effectuée mensuellement, sur présentation d'un compte-rendu d'activité.
+
+Le paiement interviendra dans un délai de 30 jours suivant la date d'émission de la facture.
+
+PROPRIÉTÉ INTELLECTUELLE
+
+L'ensemble des développements réalisés dans le cadre de cette mission seront la propriété exclusive du Client.
+
+Le Prestataire cède au Client tous les droits de propriété intellectuelle afférents aux livrables.
+
+CONFIDENTIALITÉ
+
+Le Prestataire s'engage à ne divulguer aucune information confidentielle relative au Client ou au projet.
+
+Cette obligation de confidentialité demeurera en vigueur pendant toute la durée de la mission et pendant 5 ans après sa fin.
+
+RÉSILIATION
+
+En cas de manquement grave de l'une des parties à ses obligations, le contrat pourra être résilié de plein droit, 15 jours après l'envoi d'une mise en demeure restée sans effet.
+
+Fait à Lyon, le 15 janvier 2024, en deux exemplaires.
+
+Le Client                            Le Prestataire
+(Signature)                          (Signature)

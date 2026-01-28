@@ -1,0 +1,132 @@
+CONDITIONS GÉNÉRALES D'UTILISATION - LEGALGUARD AI
+
+Dernière mise à jour : 1er janvier 2024
+
+PRÉAMBULE
+
+Les présentes Conditions Générales d'Utilisation (CGU) régissent l'utilisation de la plateforme LegalGuard AI, accessible à l'adresse www.legalguard-ai.com.
+
+L'utilisation de la plateforme implique l'acceptation pleine et entière des présentes CGU.
+
+ARTICLE 1 - DÉFINITIONS
+
+- « Utilisateur » : toute personne physique ou morale utilisant la plateforme
+- « Plateforme » : l'application web LegalGuard AI
+- « Documents » : fichiers PDF, Word ou texte uploadés par l'Utilisateur
+- « PII » : Personally Identifiable Information (données personnelles identifiables)
+- « Service » : ensemble des fonctionnalités offertes par la plateforme
+
+ARTICLE 2 - DESCRIPTION DES SERVICES
+
+LegalGuard AI propose deux services principaux :
+
+2.1 DÉTECTION ET ANONYMISATION DE PII
+La plateforme détecte automatiquement les informations personnelles dans les documents (noms, adresses, emails, numéros de téléphone) et permet de les anonymiser.
+
+Précision : Le système utilise des algorithmes de traitement du langage naturel avec un taux de détection estimé à 95%. L'Utilisateur reste responsable de vérifier l'anonymisation complète.
+
+2.2 ASSISTANT DE QUESTIONS-RÉPONSES
+La plateforme permet de poser des questions sur le contenu des documents uploadés. Les réponses sont générées par intelligence artificielle en utilisant la technologie RAG (Retrieval Augmented Generation).
+
+Limitation : Les réponses fournies sont générées automatiquement et ne constituent pas un conseil juridique. Il est recommandé de consulter un professionnel pour toute décision importante.
+
+ARTICLE 3 - INSCRIPTION ET COMPTE UTILISATEUR
+
+3.1 Pour utiliser la plateforme, l'Utilisateur doit créer un compte en fournissant :
+- Une adresse email valide
+- Un mot de passe sécurisé
+- Des informations d'identification
+
+3.2 L'Utilisateur s'engage à fournir des informations exactes et à les maintenir à jour.
+
+3.3 Les identifiants sont personnels et confidentiels. L'Utilisateur est responsable de leur sécurité.
+
+ARTICLE 4 - PROTECTION DES DONNÉES
+
+4.1 TRAITEMENT DES DOCUMENTS
+Les documents uploadés sont traités de manière sécurisée et ne sont pas conservés au-delà de la durée nécessaire au traitement.
+
+4.2 STOCKAGE
+Les documents sont stockés de manière chiffrée sur des serveurs sécurisés localisés en Union Européenne.
+
+Durée de conservation : 30 jours maximum après le dernier accès, puis suppression automatique.
+
+4.3 DONNÉES PERSONNELLES
+Conformément au RGPD, l'Utilisateur dispose d'un droit d'accès, de rectification, de suppression et de portabilité de ses données.
+
+Pour exercer ces droits : contact@legalguard-ai.com
+
+ARTICLE 5 - PROPRIÉTÉ INTELLECTUELLE
+
+5.1 La plateforme LegalGuard AI et tous ses éléments (code, design, algorithmes) sont protégés par le droit d'auteur.
+
+5.2 L'Utilisateur conserve l'entière propriété de ses documents uploadés.
+
+5.3 L'Utilisateur accorde à LegalGuard AI une licence limitée pour traiter les documents dans le cadre du service.
+
+ARTICLE 6 - LIMITATIONS DE RESPONSABILITÉ
+
+6.1 La plateforme est fournie "en l'état". LegalGuard AI ne garantit pas :
+- L'absence totale d'erreurs dans la détection de PII
+- L'exactitude à 100% des réponses générées par l'IA
+- La disponibilité continue du service (objectif : 99% uptime)
+
+6.2 L'Utilisateur reconnaît que :
+- Les résultats de l'IA ne constituent pas un avis juridique
+- Il doit vérifier les informations importantes
+- Il est responsable de l'utilisation qu'il fait du service
+
+6.3 LegalGuard AI ne pourra être tenu responsable des dommages indirects résultant de l'utilisation de la plateforme.
+
+ARTICLE 7 - TARIFICATION
+
+7.1 OFFRE GRATUITE
+- 10 documents par mois
+- Limite de 5 MB par document
+- Fonctionnalités de base
+
+7.2 OFFRE PREMIUM (29€/mois)
+- Documents illimités
+- Limite de 50 MB par document
+- API access
+- Support prioritaire
+
+7.3 OFFRE ENTREPRISE (sur devis)
+- Solution on-premise
+- Personnalisation
+- SLA garanti
+
+ARTICLE 8 - RÉSILIATION
+
+8.1 L'Utilisateur peut fermer son compte à tout moment depuis les paramètres.
+
+8.2 LegalGuard AI se réserve le droit de suspendre ou fermer un compte en cas de :
+- Violation des CGU
+- Utilisation frauduleuse
+- Non-paiement (offres payantes)
+
+Préavis : 15 jours avant fermeture, sauf cas grave.
+
+ARTICLE 9 - MODIFICATION DES CGU
+
+LegalGuard AI se réserve le droit de modifier les présentes CGU à tout moment.
+
+Les Utilisateurs seront informés par email 30 jours avant l'entrée en vigueur des modifications.
+
+L'utilisation continue de la plateforme après modification vaut acceptation des nouvelles CGU.
+
+ARTICLE 10 - DROIT APPLICABLE
+
+Les présentes CGU sont soumises au droit français.
+
+En cas de litige, les parties s'engagent à rechercher une solution amiable. À défaut, les tribunaux de Paris seront compétents.
+
+ARTICLE 11 - CONTACT
+
+Pour toute question concernant ces CGU :
+Email : support@legalguard-ai.com
+Adresse : 15 Avenue des Champs-Élysées, 75008 Paris, France
+Téléphone : +33 1 23 45 67 89
+
+Dernière mise à jour : 1er janvier 2024
+Version 1.2
