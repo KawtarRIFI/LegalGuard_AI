@@ -2,6 +2,11 @@
 
 A production-ready intelligent chatbot that analyzes legal documents in French using Retrieval-Augmented Generation (RAG) with PII protection.
 
+## 📸 Demo
+
+![Streamlit App](Assets/Frentend_Screenshot.png)
+![Architecture](Assets/LegalGuardAI%20(7).png)
+
 ## 🎯 Overview
 
 LegalGuard AI combines modern NLP techniques to:
